@@ -130,7 +130,7 @@ Example:
 
 ### Clone the repository
 
-git clone https://github.com/yourusername/regional-sales-analysis.git
+git clone https://github.com/Rj-dagar/regional-sales-analysis.git
 
 ### Install dependencies
 
@@ -156,6 +156,7 @@ These insights can help businesses improve **sales strategy and resource allocat
 
 **Rajnish Dagar**
 Fresher | Data Analyst 
+
 📧 Email: itsrajnish38@gmail.com
 🔗 LinkedIn: https://linkedin.com/in/rj-dagar
 🔗 GitHub: https://github.com/Rj-dagar
