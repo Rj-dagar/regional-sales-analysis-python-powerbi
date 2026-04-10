@@ -130,7 +130,7 @@ Example:
 
 ### Clone the repository
 
-git clone https://github.com/Rj-dagar/regional-sales-analysis.git
+git clone https://github.com/Rj-dagar/regional-sales-analysis-python-powerbi
 
 ### Install dependencies
 
